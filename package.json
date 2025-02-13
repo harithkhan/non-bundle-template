@@ -1,0 +1,19 @@
+{
+  "name": "non-bundle-template",
+  "version": "1.0.0",
+  "description": "Project template for projects that do not require bundling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harithkhan/non-bundle-template.git"
+  },
+  "author": "Harith Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harithkhan/non-bundle-template/issues"
+  },
+  "homepage": "https://github.com/harithkhan/non-bundle-template#readme"
+}
